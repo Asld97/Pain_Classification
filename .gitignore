@@ -2,3 +2,10 @@
 data/
 neutral_test/
 test_Data/
+data_v2/
+data_v3/
+logs/
+VGG16_model.ipynb
+manual_Labeled_VGG16.ipynb
+test_images/
+models/pain_detection_model_VGG16.h5
